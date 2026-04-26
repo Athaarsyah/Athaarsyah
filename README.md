@@ -1,6 +1,5 @@
 # 💫 About Me:
-#Hi, 
-I’m Muhammad Atharsyah, a graduate from a University of Technology Yogyakarta with a degree in Informatics (2021–2025), specializing in Intelligent Systems. Throughout my studies, I developed a strong passion for artificial intelligence and smart technologies, which naturally led me to become a data science enthusiast. I enjoy exploring data, building AI-driven solutions, and contributing to open-source projects. For me, technology is more than just a tool—it’s a way to create meaningful impact and unlock new opportunities in the digital world.
+Hi,I’m Muhammad Atharsyah, a graduate from a University of Technology Yogyakarta with a degree in Informatics (2021–2025), specializing in Intelligent Systems. Throughout my studies, I developed a strong passion for artificial intelligence and smart technologies, which naturally led me to become a data science enthusiast. I enjoy exploring data, building AI-driven solutions, and contributing to open-source projects. For me, technology is more than just a tool—it’s a way to create meaningful impact and unlock new opportunities in the digital world.
 
 
 ## 🌐 Socials:
