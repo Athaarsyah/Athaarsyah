@@ -11,11 +11,3 @@ Hi,I’m Muhammad Atharsyah, a graduate from a University of Technology Yogyakar
 ![](https://github-readme-stats.shion.dev/api?username=Athaarsyah&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Athaarsyah&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Athaarsyah&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=Athaarsyah&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
